@@ -1,0 +1,28 @@
+name: Educa.tech
+favicon: null
+layout_spectrum: 0.9802146945148706
+typography_spectrum: 0.6181247441563755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14875334966927767
+  lightness: 0.14727689744904637
+  saturation: 0.9704755931161344
+  rhythmicContrast: 0.516894439002499
+purpose: []
